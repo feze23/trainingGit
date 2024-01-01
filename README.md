@@ -10,3 +10,11 @@ How to switch between branches with git checkout <branch's name> command line
 How to merge branches from your master branch with git merge <name of branch you would like to merge> command line
 How to connect your github repo with your git remote add origin <link of github repository> command line 
 How to push a local repo to github and make it a master repo on your github with git push --set-upstream origin <local repo>
+How to pull the remote file and repo to local repo with fetch and merge
+Firstly we can track all the changes github repo with git fetch origin command line
+how to check a status of remote repo with git status and git log origin/master command line 
+how to see the difference between remote repo and local repo with git diff origin/master
+How to merge remote repo or changes made in remote with local repo in other to have the up to dated files in local repo with git merge origin/mater command line
+
+
+
