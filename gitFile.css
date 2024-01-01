@@ -9,3 +9,19 @@ button{
     background-color: aqua;
     width: 10%;
 }
+label{
+    width: 70px;
+    height: 30px;
+    border: 2px solid red;
+    background-color: aqua;
+}
+#name{
+     position: absolute;
+     left: 6%;
+}
+
+#Password{
+    position: absolute; 
+    left: 6%;
+
+}
